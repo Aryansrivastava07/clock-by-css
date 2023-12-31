@@ -1,5 +1,3 @@
----
-
 # CSS-Only Clock
 
 Welcome to the CSS-Only Clock project! This minimalist webpage showcases a stunning clock created using pure CSS, with just one line of JavaScript for interactivity.
@@ -14,8 +12,10 @@ Welcome to the CSS-Only Clock project! This minimalist webpage showcases a stunn
 
 - **Interactive Timekeeping:**
   - Although primarily CSS-driven, a single line of JavaScript adds interactive features, making the clock both beautiful and functional.
+    
 - **Dynamic:**
   - size can be altered by just one input value.
+    
 ## Live Demo
 
 [www.aryansrivastava07.github.io/clock-by-css/html]
@@ -52,5 +52,3 @@ This project is licensed under the [Your License] - see the [LICENSE](LICENSE) f
 
 - Aryan Srivastava
 - Email: sriaryans100@gmail.com
-
----
