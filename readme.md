@@ -18,7 +18,7 @@ Welcome to the CSS-Only Clock project! This minimalist webpage showcases a stunn
     
 ## Live Demo
 
-[www.aryansrivastava07.github.io/clock-by-css/html]
+[https://aryansrivastava07.github.io/clock-by-css/html/]
 
 ## Technologies Used
 
